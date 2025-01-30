@@ -5,7 +5,7 @@
 Tapeout projects sometimes run into mishaps when students new to Git force push to main without review or overwrite someone else's work.
 This assignment (heavily based on Github's intro course) ensures we all have a common Git foundation.
 
-**Info from the lab document omitted, read the lab document if you're newer to Git.** 
+> **Info from the lab document omitted, read the lab document if you're newer to Git.** 
 
 ## 📝 The assignment deliverables
 
@@ -15,15 +15,15 @@ To complete this assignment please complete the following:
 
 Please add your SSH key to your Github account to simplify logging in. Later you can copy this key to the instructional machine.
 
-**Info from the lab document omitted, read the lab document if you're unsure.** 
+> **Info from the lab document omitted, read the lab document if you're unsure.** 
 
 #### Copying your new SSH key to your instructional account
 
-**Info from the lab document omitted, read the lab document if you're unsure.** 
+> **Info from the lab document omitted, read the lab document if you're unsure.** 
 
 ### Add your name to STUDENTS.md
 
-**Info from the lab document omitted, read the lab document if you're unsure.** 
+> **Info from the lab document omitted, read the lab document if you're unsure.** 
 
 ### Optional
 
