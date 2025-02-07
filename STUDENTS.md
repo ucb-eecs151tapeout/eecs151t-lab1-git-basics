@@ -1,1 +1,3 @@
-elam,lucy,jasmine
+elam
+lucy
+jasmine
