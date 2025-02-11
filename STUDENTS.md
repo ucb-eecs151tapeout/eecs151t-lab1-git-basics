@@ -1,6 +1,10 @@
-elam
+elams
 lucy
 jasmine
 Victor
 ZichengHe
 jim
+Yuze
+MandyChang
+ShikaiShen
+jonathanSaleh
