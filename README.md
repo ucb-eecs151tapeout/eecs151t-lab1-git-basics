@@ -21,7 +21,7 @@ Please add your SSH key to your Github account to simplify logging in. Later you
 
 > **Info from the lab document omitted, read the lab document if you're unsure.** 
 
-### Add your name to STUDENTS.md
+### Make a PR adding your name to STUDENTS.md
 
 > **Info from the lab document omitted, read the lab document if you're unsure.** 
 
